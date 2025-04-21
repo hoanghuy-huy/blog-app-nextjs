@@ -1,0 +1,17 @@
+{
+  "title": "Hello world",
+  "isPublished": true,
+  "body": {
+    "raw": "",
+    "html": "<hr>\n<p>title: 'Hello world'\r\nisPublished: true</p>"
+  },
+  "_id": "blog-one/index.mdx",
+  "_raw": {
+    "sourceFilePath": "blog-one/index.mdx",
+    "sourceFileName": "index.mdx",
+    "sourceFileDir": "blog-one",
+    "contentType": "mdx",
+    "flattenedPath": "blog-one"
+  },
+  "type": "Blog"
+}

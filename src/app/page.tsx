@@ -1,3 +1,7 @@
+import { allBlogs } from 'contentlayer/generated';
 export default function Home() {
-  return <main className="h-screen flex items-center justify-center"></main>;
+  console.log(allBlogs);
+  return <main className="flex flex-col items-center justify-center h-[5000px]">
+    
+  </main>;
 }
