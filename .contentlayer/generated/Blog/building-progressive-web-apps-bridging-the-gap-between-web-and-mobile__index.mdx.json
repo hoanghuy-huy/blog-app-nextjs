@@ -1,7 +1,15 @@
 {
   "title": "Building Progressive Web Apps: Bridging the Gap Between Web and Mobile",
   "description": "Integrating mindfulness practices helps developers cultivate present-moment awareness, fostering focus, problem-solving, and work-life balance.",
-  "image": "../../public/blogs/charlesdeluvio-cZr2sgaxy3Q-unsplash.jpg",
+  "image": {
+    "filePath": "../public/blogs/charlesdeluvio-cZr2sgaxy3Q-unsplash.jpg",
+    "relativeFilePath": "../../public/blogs/charlesdeluvio-cZr2sgaxy3Q-unsplash.jpg",
+    "format": "jpeg",
+    "height": 1237,
+    "width": 1920,
+    "aspectRatio": 1.5521422797089732,
+    "blurhashDataUrl": "data:image/jpeg;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAICAYAAADED76LAAAAwUlEQVR4nGOYOWHqf24B4f9cHML/Z/RP+Q/iw/CsidP+gxWwGgX/Z2Zh+z9vxhywBCMj8//P3/8jFPCyC/9nYub4z8UlAlXA+P/XKgYwG6yAj1/wvygH/38ePmmw4J8V7P8fr1T8P613EkRBZ0Pjfy5Jhf9ixtZgBQx77vxn2H3rPwPQKrACkONOXPr23/jFdbACdg6u/1Usp8AYrACE2aSkwQpB7Jaaqv+fT2j/9zgzAaEAGU/vm/yfgYEB6Fjm/wBeo5F4NGjXmwAAACt0RVh0Q3JlYXRpb24gVGltZQBNb24sIDIxIEFwciAyMDI1IDA0OjM1OjE0IEdNVOWfwfEAAAAtdEVYdFNvZnR3YXJlAGdpdGh1Yi5jb20vbWF0bWVuL0ltYWdlU2NyaXB0IHYxLjMuMBjGn/YAAAAASUVORK5CYII="
+  },
   "publishedAt": "2023-01-04T00:00:00.000Z",
   "updatedAt": "2023-01-04T00:00:00.000Z",
   "author": "codebucks",

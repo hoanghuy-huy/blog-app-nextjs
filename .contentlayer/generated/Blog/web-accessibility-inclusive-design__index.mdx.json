@@ -1,7 +1,15 @@
 {
   "title": "Web Accessibility: Inclusive Design for All Users",
   "description": "Embrace the principles of web accessibility and ensure that your web applications reach all users, regardless of their abilities.",
-  "image": "../../public/blogs/christina-wocintechchat-com-OtHEYbQXLFU-unsplash.jpg",
+  "image": {
+    "filePath": "../public/blogs/christina-wocintechchat-com-OtHEYbQXLFU-unsplash.jpg",
+    "relativeFilePath": "../../public/blogs/christina-wocintechchat-com-OtHEYbQXLFU-unsplash.jpg",
+    "format": "jpeg",
+    "height": 1282,
+    "width": 1920,
+    "aspectRatio": 1.497659906396256,
+    "blurhashDataUrl": "data:image/jpeg;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAICAYAAADED76LAAABCklEQVR4nA3PPUsCcQDA4f+XEFqiuYigqSn6ClGLENXSy9wQNrQWBDfU0hCZGFKYmQQViiVBQZJUHhQeysm9GHrYnV3ceb0Mv9yf5RGeH9B0ugwOj2JYLorW5qViUHw1yD7UEWrD4bNZpNUJiKXyVN9kclKEXEnnqKAgjIaJ63aIJS9J5Uv4XzbplSVmF9eQju8Rh8lzNLOF3/0lc/1EWbX5CzxCfQNs7l8gSopF4fmdD9slW1SQ6w5D/SHmxkeQohlExXTRLY9arcbpbQ/oLun4DpMTY0RPbhCrW4ne4hu5ajEVXiA8v8xMeJqqapApyAi9HWDaP1w9mtyVNQ7O8mzvJVjf2CUixfkHvzDKCsE7ym4AAAArdEVYdENyZWF0aW9uIFRpbWUATW9uLCAyMSBBcHIgMjAyNSAwNDozNToxOCBHTVQgbyzwAAAALXRFWHRTb2Z0d2FyZQBnaXRodWIuY29tL21hdG1lbi9JbWFnZVNjcmlwdCB2MS4zLjAYxp/2AAAAAElFTkSuQmCC"
+  },
   "publishedAt": "2022-11-12T00:00:00.000Z",
   "updatedAt": "2022-11-12T00:00:00.000Z",
   "author": "codebucks",

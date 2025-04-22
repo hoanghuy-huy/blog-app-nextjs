@@ -4,7 +4,7 @@ import { Sun } from 'lucide-react';
 
 const Nav = () => {
   return (
-    <nav className="w-max py-3 px-4 border border-solid border-dark rounded-full font-medium capitalize flex items-center fixed top-6  right-1/2 translate-x-1/2 bg-light-80 backdrop-blur-sm">
+    <nav className="z-50 w-max py-3 px-4 border border-solid border-dark rounded-full font-medium capitalize flex items-center fixed top-6  right-1/2 translate-x-1/2 bg-light-80 backdrop-blur-sm bg-white/80">
       <Link className="mx-2" href="/">
         Home
       </Link>

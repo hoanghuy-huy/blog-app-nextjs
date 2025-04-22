@@ -3,6 +3,8 @@ import { Roboto } from 'next/font/google';
 import './globals.css';
 import { ThemeProvider } from '../components/coreUI/themeProvider.tsx/theme-provider';
 import { Header } from '../components/coreUI';
+import { Footer } from '@/components/coreUI/Footer';
+import { ScrollToTopButton } from '@/components/coreUI/ScrollTopButton';
 
 const roboto = Roboto({ subsets: ['vietnamese'], weight: ['100', '300', '500', '700'] });
 
@@ -16,9 +18,16 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
     <html lang="en">
       <body className={`${roboto.className} bg-white `}>
         {' '}
-        <ThemeProvider attribute="class" defaultTheme="system" enableSystem disableTransitionOnChange>
+        <ThemeProvider
+          attribute="class"
+          defaultTheme="system"
+          enableSystem
+          disableTransitionOnChange
+        >
           <Header />
           {children}
+          <Footer />
+          <ScrollToTopButton />
         </ThemeProvider>
       </body>
     </html>

@@ -1,7 +1,15 @@
 {
   "title": "Mindfulness and Meditation Techniques for Developers: Improving Focus and Clarity",
   "description": "Integrating mindfulness practices helps developers cultivate present-moment awareness, fostering focus, problem-solving, and work-life balance.",
-  "image": "../../public/blogs/c-d-x-PDX_a_82obo-unsplash.jpg",
+  "image": {
+    "filePath": "../public/blogs/c-d-x-PDX_a_82obo-unsplash.jpg",
+    "relativeFilePath": "../../public/blogs/c-d-x-PDX_a_82obo-unsplash.jpg",
+    "format": "jpeg",
+    "height": 1280,
+    "width": 1920,
+    "aspectRatio": 1.5,
+    "blurhashDataUrl": "data:image/jpeg;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAICAYAAADED76LAAAA7UlEQVR4nCWOPS9DcRSHz78JA4vNIpVUNEEEkZCOBlI6tCKIRcTbRHwIo6/hI0hsahHRyJWgrktuGy/fwCBp7/0//aWdznCe5znHeDT8+zS+UYLvPfg9hq8jiIv41yzGk4NwERobAg4FnGme4OOKgDzmgww+nBOwAz+nJFGJiwPH/JjEtwUVdIK6gHi7Z34q39SZqALP4wJqGdKXCdKo3F2U13cF75OGK6xNmoA7FYIRVZbgY5NcdlT2FkODfTQvBbSqDv8wTBLMyipSyOmn+jL9zmjfDmB/145WVZVaXqUCyf0UV+fG6ozxf2N0AMvNsxenFOwNAAAAK3RFWHRDcmVhdGlvbiBUaW1lAE1vbiwgMjEgQXByIDIwMjUgMDQ6MzU6MTYgR01Un1+SkQAAAC10RVh0U29mdHdhcmUAZ2l0aHViLmNvbS9tYXRtZW4vSW1hZ2VTY3JpcHQgdjEuMy4wGMaf9gAAAABJRU5ErkJggg=="
+  },
   "publishedAt": "2023-01-03T00:00:00.000Z",
   "updatedAt": "2023-01-03T00:00:00.000Z",
   "author": "codebucks",

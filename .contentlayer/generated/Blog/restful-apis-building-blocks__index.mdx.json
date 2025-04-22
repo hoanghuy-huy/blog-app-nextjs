@@ -1,7 +1,15 @@
 {
   "title": "RESTful APIs: Building Blocks of Modern Web Applications",
   "description": "Uncover the fundamental concepts of RESTful APIs and their crucial role in modern web application development.",
-  "image": "../../public/blogs/luca-bravo-XJXWbfSo2f0-unsplash.jpg",
+  "image": {
+    "filePath": "../public/blogs/luca-bravo-XJXWbfSo2f0-unsplash.jpg",
+    "relativeFilePath": "../../public/blogs/luca-bravo-XJXWbfSo2f0-unsplash.jpg",
+    "format": "jpeg",
+    "height": 1280,
+    "width": 1920,
+    "aspectRatio": 1.5,
+    "blurhashDataUrl": "data:image/jpeg;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAICAYAAADED76LAAAA4klEQVR4nCWNS06DUBSGb218xdZSCC2Il8tTrSZgwJiWAm1sOiAOjCMHRkfOXIYrcuRCXNAn0sHJyf8Wx3bGSM0xwhIZl5hhjeGXjP2CobxHHExS9GCJHlZMohVWuOr+NF5TNS87g+YVGEFLBjVn8Qbn4qE7sw11hpG7RFMlhltgRTWLzTuvH194Nw1i30w4tDI0v2KsCraPn1zlz+wNfXqnCtE3rjmycwbOnJ/vX+z1thUVnkwwvQzRPL3xP6O5C3oDF6kSzp0Z/VGMCtO2QZ91gjiRuDJlennX4eA2x4tS/gAtVF10L5zq3QAAACt0RVh0Q3JlYXRpb24gVGltZQBNb24sIDIxIEFwciAyMDI1IDA0OjM1OjE3IEdNVKI/uyEAAAAtdEVYdFNvZnR3YXJlAGdpdGh1Yi5jb20vbWF0bWVuL0ltYWdlU2NyaXB0IHYxLjMuMBjGn/YAAAAASUVORK5CYII="
+  },
   "publishedAt": "2022-11-12T00:00:00.000Z",
   "updatedAt": "2022-11-12T00:00:00.000Z",
   "author": "codebucks",

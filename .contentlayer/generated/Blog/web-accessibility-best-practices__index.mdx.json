@@ -1,7 +1,15 @@
 {
   "title": "Best Practices for Web Accessibility: Building Inclusive Websites",
   "description": "Ensuring web accessibility is vital for reaching a broader audience and creating inclusive digital experiences. This blog highlights essential web accessibility best practices, guidelines, and tools to make your websites accessible to everyone.",
-  "image": "../../public/blogs/marvin-meyer-SYTO3xs06fU-unsplash.jpg",
+  "image": {
+    "filePath": "../public/blogs/marvin-meyer-SYTO3xs06fU-unsplash.jpg",
+    "relativeFilePath": "../../public/blogs/marvin-meyer-SYTO3xs06fU-unsplash.jpg",
+    "format": "jpeg",
+    "height": 1280,
+    "width": 1920,
+    "aspectRatio": 1.5,
+    "blurhashDataUrl": "data:image/jpeg;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAICAYAAADED76LAAABDUlEQVR4nA3Ou0pCcQDA4f/zJKZpWQ1dIJMgSFqqqUFacihIGiqHWrpQDbaUIKmRhnJCUFOpzjmomaYkeCKCJFsKOV3oEX75BN8n2s0SP18tPp4VKq8tZpc9TLvcWIccGKw2xHtbZ3J0mKfvPxr6L/1jTqplhZnBHm59m4hcViWrNbl/+yRZ11BC2/Ta+nCvrJJPRRH6mYOJETtHW+skoycMWCzIlyEkn5e8nEYcelyo0inF2iNyKsb8xh61Sp7x8wwLcg3xEvMTjl/QqBboMhixL+2g1UusefcJBDqEPxjE2G0mcnzAtVrA1JmrmQRzU05u0hIiIUVIFB4wmMxk1DuulCKVokp5d5FcPMw/Ygawd5HHnDQAAAArdEVYdENyZWF0aW9uIFRpbWUATW9uLCAyMSBBcHIgMjAyNSAwNDozNToyMCBHTVSWixWfAAAALXRFWHRTb2Z0d2FyZQBnaXRodWIuY29tL21hdG1lbi9JbWFnZVNjcmlwdCB2MS4zLjAYxp/2AAAAAElFTkSuQmCC"
+  },
   "publishedAt": "2022-11-12T00:00:00.000Z",
   "updatedAt": "2022-11-12T00:00:00.000Z",
   "author": "codebucks",

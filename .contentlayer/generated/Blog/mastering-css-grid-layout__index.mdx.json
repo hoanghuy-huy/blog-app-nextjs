@@ -1,7 +1,15 @@
 {
   "title": "Mastering CSS Grid Layout: A Comprehensive Guide",
   "description": "Dive into the world of CSS Grid Layout with this comprehensive guide. Learn how to create responsive and dynamic layouts using CSS Grid, and explore various examples and best practices for building modern web interfaces.",
-  "image": "../../public/blogs/kelly-sikkema--1_RZL8BGBM-unsplash.jpg",
+  "image": {
+    "filePath": "../public/blogs/kelly-sikkema--1_RZL8BGBM-unsplash.jpg",
+    "relativeFilePath": "../../public/blogs/kelly-sikkema--1_RZL8BGBM-unsplash.jpg",
+    "format": "jpeg",
+    "height": 1272,
+    "width": 1920,
+    "aspectRatio": 1.509433962264151,
+    "blurhashDataUrl": "data:image/jpeg;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAICAYAAADED76LAAAA8UlEQVR4nB2OvUrDUABG78O4CIJbl4IvIuhQKHQxIAUVC90K/oDg0GpjzU3z28Sb3mhBHF1drKGNVlvxTY5ppm/5zuEI13KwzQG+lIwch+dkTBKG+Pcm9foe4rbXJxy6qCDgSSledFqelOdQq+0iojAu6CGLjwdWc81iOqZa3eYr0zSNBsKVNrEXsJop/j41y5nmsr3PT5Zy0jxASNMq9KPCoPjOFPN3RaWyVRgeaR0bCGuwjvOKQ8RvnrLMJ3ROG6Wh0z5C9LomsR+RT3VB6XLXsW+vkkOjjji/uEJaLt3rM+y7GwLZJ4liJl6Lnc0N/gEhYbnQgUsRYAAAACt0RVh0Q3JlYXRpb24gVGltZQBNb24sIDIxIEFwciAyMDI1IDA0OjM1OjE1IEdNVNj/6EEAAAAtdEVYdFNvZnR3YXJlAGdpdGh1Yi5jb20vbWF0bWVuL0ltYWdlU2NyaXB0IHYxLjMuMBjGn/YAAAAASUVORK5CYII="
+  },
   "publishedAt": "2022-11-12T00:00:00.000Z",
   "updatedAt": "2022-11-12T00:00:00.000Z",
   "author": "codebucks",

@@ -87,5 +87,6 @@
 @layer base {
   body {
     color: black;
+    /* overflow-x: hidden; */
   }
 }

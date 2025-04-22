@@ -58,7 +58,12 @@ const config: Config = {
           '3': 'hsl(var(--chart-3))',
           '4': 'hsl(var(--chart-4))',
           '5': 'hsl(var(--chart-5))'
-        }
+        },
+        dark: '#1b1b1b',
+        light: '#fff',
+        accentColor: '#7B00D3',
+        accentDark: '#ffdb4d',
+        gray: '#747474'
       }
       // colors: {
       //   dark: '#1b1b1b',
@@ -69,6 +74,6 @@ const config: Config = {
       // }
     }
   },
-  plugins: [require('tailwindcss-animate')]
+  // plugins: [require('tailwindcss-animate')]
 };
 export default config;

@@ -1,7 +1,15 @@
 {
   "title": "The Power of JavaScript Frameworks: Angular vs. React vs. Vue.js",
   "description": "Get a detailed comparison of three popular JavaScript frameworks - Angular, React, and Vue.js. Understand the strengths, weaknesses, and use cases for each framework to make an informed decision for your next web development project.",
-  "image": "../../public/blogs/paul-esch-laurent-oZMUrWFHOB4-unsplash.jpg",
+  "image": {
+    "filePath": "../public/blogs/paul-esch-laurent-oZMUrWFHOB4-unsplash.jpg",
+    "relativeFilePath": "../../public/blogs/paul-esch-laurent-oZMUrWFHOB4-unsplash.jpg",
+    "format": "jpeg",
+    "height": 1230,
+    "width": 1920,
+    "aspectRatio": 1.5609756097560976,
+    "blurhashDataUrl": "data:image/jpeg;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAICAYAAADED76LAAABEUlEQVR4nBXMzyuDcQCA8W9TtozU5MBBqO2gtWiLTGraaofNpk0LMe9bRsoy7WQcdlRu/AG7WO7k4rKSUN7yI3LZ0ovLksYr22rp8Tp86jk94iJoJugwYbX14h4fZiY+TTgSYDEhIwdciCO34N/9XYHXtweOTw5Rbs71LhId60MoASPXoVZKT5eUyyVqdY2f6ifVmkYq2I3Ijxg49TWTz6yiqo9o3x+6d/3wTNxvReTsgs42M1ODLWzNOlmLDDHptLAte8lKo4hkvwG7UdDIJKgshakko/zupvmK+dhZ9iIkTzuypwPlqsDtQg/17ASN/RgvapH1qB1htTTh6DKxMufnIG0jlxrgbM/DhhRic97FH7pBmdDFXjhkAAAAK3RFWHRDcmVhdGlvbiBUaW1lAE1vbiwgMjEgQXByIDIwMjUgMDQ6MzU6MTcgR01Uoj+7IQAAAC10RVh0U29mdHdhcmUAZ2l0aHViLmNvbS9tYXRtZW4vSW1hZ2VTY3JpcHQgdjEuMy4wGMaf9gAAAABJRU5ErkJggg=="
+  },
   "publishedAt": "2022-11-12T00:00:00.000Z",
   "updatedAt": "2022-11-12T00:00:00.000Z",
   "author": "codebucks",

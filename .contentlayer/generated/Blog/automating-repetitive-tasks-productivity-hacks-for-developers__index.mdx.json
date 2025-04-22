@@ -1,7 +1,15 @@
 {
   "title": "Automating Repetitive Tasks: Productivity Hacks for Developers",
   "description": "How to deploy your Next.js apps on Vercel.",
-  "image": "../../public/blogs/emile-perron-xrVDYZRGdw4-unsplash.jpg",
+  "image": {
+    "filePath": "../public/blogs/emile-perron-xrVDYZRGdw4-unsplash.jpg",
+    "relativeFilePath": "../../public/blogs/emile-perron-xrVDYZRGdw4-unsplash.jpg",
+    "format": "jpeg",
+    "height": 1080,
+    "width": 1920,
+    "aspectRatio": 1.7777777777777777,
+    "blurhashDataUrl": "data:image/jpeg;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAICAYAAADED76LAAABA0lEQVR4nCXKQStDAQDA8Xdwkra31us95eKAyDO82WyTq1hxwMHB6ZnZo3d0WXFQO6zWrsZRUfZKaHnWa1taL1khciA5IcV3+Ku9+09QFAUtksAwDBp2mevzY9yqxefbPVubGdogPJnANE2cy1Nc54Lvj2d+v175+3n3wLgWJZ3OUKtYvLTq7G5nKeT2yWd3PBCeiJHS16lXyjy5Vc6umnSJAXz+AIIsy4yExlheWsE6OuCxaWM7t0TUUQ9IksTg0DCzcwus6RsU8zmcRovV+SL+gIgQDAbp7etnZjrURrqewq7dUTo8Ya9QQhBFkc4OHzfuA1J3D7H4FMnkIlo0zoCq8g/3w47L28yCrAAAACt0RVh0Q3JlYXRpb24gVGltZQBNb24sIDIxIEFwciAyMDI1IDA0OjM1OjEzIEdNVFe/HeEAAAAtdEVYdFNvZnR3YXJlAGdpdGh1Yi5jb20vbWF0bWVuL0ltYWdlU2NyaXB0IHYxLjMuMBjGn/YAAAAASUVORK5CYII="
+  },
   "publishedAt": "2023-01-01T00:00:00.000Z",
   "updatedAt": "2023-01-01T00:00:00.000Z",
   "author": "codebucks",

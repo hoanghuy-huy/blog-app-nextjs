@@ -1,7 +1,15 @@
 {
   "title": "Best Practices for Writing Clean and Maintainable Code",
   "description": "How to deploy your Next.js apps on Vercel.",
-  "image": "../../public/blogs/roman-synkevych-vXInUOv1n84-unsplash.jpg",
+  "image": {
+    "filePath": "../public/blogs/roman-synkevych-vXInUOv1n84-unsplash.jpg",
+    "relativeFilePath": "../../public/blogs/roman-synkevych-vXInUOv1n84-unsplash.jpg",
+    "format": "jpeg",
+    "height": 1280,
+    "width": 1920,
+    "aspectRatio": 1.5,
+    "blurhashDataUrl": "data:image/jpeg;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAICAYAAADED76LAAAAqklEQVR4nDWPOw7CMBBE7f3YDhEJIVCEVBAEEtQ0cBPuf49h1xHFk2z57c44JGI0mlBIDELrd2a0HNEJoQqZpSJ2Xr4f9FkxjwnnU0bQSPXRNwhppVfGcxZcJxN8g7MVhZroQieM973Bw6Tg0zmuuUkyUlRsmfC6NbgcFaHYZMUKchRoECy94NAKxiYg/H+QY6wCW6dhQ9iXhGXgtYPHeIQ/OrtiMVZ0KhE/JwNGfzXpqgYAAAArdEVYdENyZWF0aW9uIFRpbWUATW9uLCAyMSBBcHIgMjAyNSAwNDozNToxNCBHTVTln8HxAAAALXRFWHRTb2Z0d2FyZQBnaXRodWIuY29tL21hdG1lbi9JbWFnZVNjcmlwdCB2MS4zLjAYxp/2AAAAAElFTkSuQmCC"
+  },
   "publishedAt": "2023-01-02T00:00:00.000Z",
   "updatedAt": "2023-01-02T00:00:00.000Z",
   "author": "codebucks",
