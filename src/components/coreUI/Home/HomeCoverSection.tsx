@@ -1,4 +1,4 @@
-import { Blog } from '@/lib/types';
+import { Blog } from '@/types';
 import { sortBlogs } from '@/utils';
 import Image from 'next/image';
 import React from 'react';

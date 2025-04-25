@@ -1,5 +1,5 @@
 'use client';
-import { DefaultSizeFeaturedPostImage } from '@/lib/types';
+import { DefaultSizeFeaturedPostImage } from '@/types';
 import { format } from 'date-fns';
 import Image from 'next/image';
 import Link from 'next/link';
@@ -28,7 +28,9 @@ const CardBlogLayoutTwo = ({ blog }) => {
         >
           <h2 className="capitalize font-bold text-2xl text-dark">{blog.title}</h2>
         </Link>
-        <span className='capitalize text-dark/50 py-3'>{format(new Date(blog.publishedAt), 'dd MMMM yyyy')}</span>
+        <span className="capitalize text-dark/50 py-3">
+          {format(new Date(blog.publishedAt), 'dd MMMM yyyy')}
+        </span>
       </div>
     </div>
   );

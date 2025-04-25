@@ -2,37 +2,23 @@ import React from 'react';
 
 const Footer = () => {
   return (
-    <footer className="bg-dark rounded-lg shadow-sm bg-gray-800">
-      <div className="w-full mx-auto max-w-screen-xl p-4 md:flex md:items-center md:justify-between text-light">
-        <span className="text-sm sm:text-center text-gray-400">
-          © 2023{' '}
-          <a href="https://flowbite.com/" className="hover:underline">
-            FakeBite
-          </a>
-          . All Rights Reserved.
-        </span>
-        <ul className="flex flex-wrap items-center mt-3 text-sm font-medium text-gray-400 sm:mt-0">
-          <li>
-            <a href="#" className="hover:underline me-4 md:me-6">
-              About
-            </a>
-          </li>
-          <li>
-            <a href="#" className="hover:underline me-4 md:me-6">
-              Privacy Policy
-            </a>
-          </li>
-          <li>
-            <a href="#" className="hover:underline me-4 md:me-6">
-              Licensing
-            </a>
-          </li>
-          <li>
-            <a href="#" className="hover:underline">
-              Contact
-            </a>
-          </li>
-        </ul>
+    <footer className="mt-16 rounded-2xl bg-dark m-10 flex flex-col items-center text-light">
+      <h3 className="mt-16 font-medium text-center capitalize text-4xl px-4">
+        Interesting Stories | Updates | Guides
+      </h3>
+      <p className="mt-5 px-4 text-center w-3/4 font-light text-base">
+        &copy; {new Date().getFullYear()} Your Company Name. All rights reserved.
+      </p>
+      <div className="mt-6 min-w-[384px] flex items-stretch bg-light p-2 rounded mx-4">
+        <input
+          className="w-full bg-transparent text-dark  focus:ring-0 border-0 border-b mr-2 pb-1 px-2"
+          type="email"
+          placeholder="Enter your email"
+        />
+        <input
+          type="submit"
+          className="bg-dark text-light cursor-pointer font-medium rounded px-5 py-1"
+        />
       </div>
     </footer>
   );

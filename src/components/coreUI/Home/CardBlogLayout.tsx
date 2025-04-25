@@ -2,7 +2,7 @@ import React from 'react';
 import { Tag } from '../Tag';
 import Image from 'next/image';
 import Link from 'next/link';
-import { Blog, DefaultSizeFeaturedPostImage } from '@/lib/types';
+import { Blog, DefaultSizeFeaturedPostImage } from '@/types';
 
 const CardBlogLayout: React.FC<{ blog: Blog }> = ({ blog }) => {
   return (
@@ -29,7 +29,6 @@ const CardBlogLayout: React.FC<{ blog: Blog }> = ({ blog }) => {
         >
           <h2 className="capitalize font-bold text-2xl">{blog.title}</h2>
         </Link>
-      
       </div>
     </div>
   );

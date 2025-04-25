@@ -1,5 +1,5 @@
 import { FeaturedPosts, HomeCoverSection, RecentPost } from '@/components/coreUI';
-import { Blog } from '@/lib/types';
+import { Blog } from '@/types';
 import { allBlogs } from 'contentlayer/generated';
 export default function Home() {
   return (

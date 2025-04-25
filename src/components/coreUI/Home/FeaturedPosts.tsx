@@ -1,6 +1,6 @@
 import React from 'react';
 import { sortBlogs } from '@/utils';
-import { Blog } from '@/lib/types';
+import { Blog } from '@/types';
 import CardBlogLayout from './CardBlogLayout';
 import CardBlogLayoutTwo from './CardBlogLayoutTwo';
 
